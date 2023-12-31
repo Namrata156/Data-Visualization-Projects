@@ -6,7 +6,7 @@ In this repository, you'll find a series of data visualization projects that I'v
 # Projects
 
 # 1) Exploring sleeping patterns across lifestyles 
-- https://github.com/Namrata156/Data-Visualization-Projects/blob/main/Sleep_health_and_lifestyle_dataset.html
+     https://github.com/Namrata156/Data-Visualization-Projects/blob/main/Sleep_health_and_lifestyle_dataset.html
   
 •	Analyzed factors influencing sleep quality across 374 individuals. Identified trends in sleep duration, quality, and disorders correlated to gender, age, BMI, blood pressure, physical activity, and stress levels.
 
